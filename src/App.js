@@ -1,10 +1,17 @@
 //  import { Component } from "react";
-import Komponen from "./Komponen";
+// import Reusable from "./Reusable";
+import Form from "./Form";
+// import Rendering from "./Rendering";
+// import Reusable from "./Reusable";
+// import Product from "./Reusable/Produk";
+// import Hello from "./Reusable/Hello";
+// import Styling from "./Styling";
+
 
 function App() {
   return (
     <div className="App">
-      <Komponen />
+      <Form />
     </div>
   );
 }
